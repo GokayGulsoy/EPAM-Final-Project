@@ -1,4 +1,4 @@
-# EPAM-Final-Project
+# EPAM Python Specialization Final-Project
 
 ## Herbify
 
