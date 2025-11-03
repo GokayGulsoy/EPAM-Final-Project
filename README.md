@@ -14,7 +14,7 @@ Herbify is an plant identification RESTFUL web app utilizing vgg-16 deep learnin
 - keras
 - SQLAlchemy
 
-### Dependencies required to work with Herbify (lastly updated at 08/07/2024)
+### Dependencies required to work with Herbify
 
 - tensorflow 2.16.1
 - keras 3.4.1
