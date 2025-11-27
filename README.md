@@ -33,3 +33,5 @@ project can be run by typing following commands on terminal
 4. flask run
 5. local development server will be initiated at `http://127.0.0.1:5000`
 6. go to the server url to use and test the application
+
+[Link to AI model used in project](https://drive.google.com/file/d/1bW3q0jFYcUJJFPXHuPSIDM0OptCA08GB/view?usp=sharing)
